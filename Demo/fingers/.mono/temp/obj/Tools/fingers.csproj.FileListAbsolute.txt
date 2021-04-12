@@ -1,0 +1,6 @@
+/home/jon/fingers/.mono/temp/bin/Tools/fingers.dll
+/home/jon/fingers/.mono/temp/bin/Tools/fingers.pdb
+/home/jon/fingers/.mono/temp/obj/Tools/fingers.csprojAssemblyReference.cache
+/home/jon/fingers/.mono/temp/obj/Tools/fingers.csproj.CoreCompileInputs.cache
+/home/jon/fingers/.mono/temp/obj/Tools/fingers.dll
+/home/jon/fingers/.mono/temp/obj/Tools/fingers.pdb
