@@ -23,6 +23,8 @@ I used a pool glove with 3 fingers to match the aesthetics of the OMG-VR glove. 
 
 The fingers are connected to the board using conductive fabric and conductive thread. A strip of adhesive conductive frabric goes from the tip of each finger to the back of the hand, next to the board. Conductive thread then goed though the conductive fabric and in holes of the board. The thumb is connected to ground, the index is connected to pin 25, and the middle finger is connected to pin 21.
 
+I wear a second glove on top of the first one. That second glove covers the electronics that would otherwise have an adverse effet on the hand tracking. It also maintain the battery in place. The tips of the second glove are cut so the conductive fabric is exposed.
+
 ## Building the firmware
 
 ## Running the demo
