@@ -44,7 +44,7 @@ To install the firmware on the glove:
 
 ## Running the demo
 
-![In-game view of the demo](Assets/demo.mp4)
+![In-game view of the demo](Assets/demo.gif)
 
 The demonstration "game" shows the users hand and two spheres attached to the hands. The sphere becomes green when the glove detects a pinch between the thumb and the index, and red when it detects a pinch between the thumb and the middle finger.
 
