@@ -19,6 +19,8 @@ This repository contains a description of the glove and instructions to build it
 
 ## Building the glove
 
+![The PinchGlove seen without the second glove from the back and from the palm, and with the second glove](Assets/hand_composition.png)
+
 The "brain" of the glove is an ESP32 microcontroller with Bluetooth functionality. For this specific build, I used a [TinyPICO](https://www.tinypico.com/) development board that exposes all the microcontroller's pins, allows to program the chip and communicate with UART via USB, and has the circuitry to charge a LiPo battery. Because I wanted to use the board for other applications, I soldered female header pins to a protoboard that was sawed to the glove using regular thread; the board could be sawed to the glove directly, which would remove most of the bulkiness.
 
 I used a pool glove with 3 fingers to match the aesthetics of the OMG-VR glove. Any glove would work.
@@ -41,6 +43,8 @@ To install the firmware on the glove:
 * upload the sketch.
 
 ## Running the demo
+
+![In-game view of the demo](Assets/demo.mp4)
 
 The demonstration "game" shows the users hand and two spheres attached to the hands. The sphere becomes green when the glove detects a pinch between the thumb and the index, and red when it detects a pinch between the thumb and the middle finger.
 
