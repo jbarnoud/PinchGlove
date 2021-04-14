@@ -31,6 +31,14 @@ The fingers are connected to the board using conductive fabric and conductive th
 
 I wear a second glove on top of the first one. That second glove covers the electronics that would otherwise have an adverse effect on hand tracking. It also maintains the battery in place. The tips of the second glove's fingers are cut so that the conductive fabric is exposed.
 
+I used the following parts to build the glove:
+
+* pool gloves <https://www.amazon.co.uk/gp/product/B08K8ZV7XB/>
+* TinyPICO <https://shop.pimoroni.com/products/tinypico-v2?variant=39285089534035>
+* conductive fabric <https://shop.pimoroni.com/products/woven-conductive-tape>
+* conductive thread <https://shop.pimoroni.com/products/adafruit-stainless-medium-conductive-thread-3-ply-18-meter-60-ft>
+* prototype board <https://www.amazon.co.uk/gp/product/B0775BRB6B/>
+
 ## Building the firmware
 
 The firmware for the glove is written in C++ using the Arduino API. The sketch is available in the `Firmware` directory. It relies on the [ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) library to expose the glove as a Bluetooth gamepad, and the [TinyPICO Arduino helper library](https://www.tinypico.com/code-examples) to manage the RGB LED.
