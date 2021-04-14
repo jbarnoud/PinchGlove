@@ -9,7 +9,7 @@ It is mostly useless, but I was wondering if it was possible.
 
 ## Motivation
 
-This glove is inspired by the [OMG-VR gloves](https://arxiv.org/abs/1901.03532). The OMG-VR gloves were developed for Vive trackers and allow to track the hand's position and to detect pinches ("mudra" poses); all in the lightest package possible. They depend on the SteamVR lighthouses and are not compatible with the increasingly popular Oculus Quest 2 headset.
+This glove is inspired by the [OMG-VR gloves](https://arxiv.org/abs/1901.03532) (also on [instructable](https://www.instructables.com/Etextile-VR-Gloves-for-Vive-Tracker/)). The OMG-VR gloves were developed for Vive trackers and allow to track the hand's position and to detect pinches ("mudra" poses); all in the lightest package possible. They depend on the SteamVR lighthouses and are not compatible with the increasingly popular Oculus Quest 2 headset.
 
 The PinchGlove attempts to achieve the same thing for the Quest. Except that the Quest has a hand tracking feature and can detect pinches using computer vision. This detection, however, can be confused with "near-contacts", occlusion, or when the hand is out of view. The glove is tracked using the headset's hand-tracking feature but detects the pinches using an electrical contact that is unambiguous.
 
