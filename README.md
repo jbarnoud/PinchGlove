@@ -1,6 +1,8 @@
 PinchGlove—Physically detect pinch on the Oculus Quest
 ======================================================
 
+![The PinchGlove in action](Assets/gloves.gif)
+
 The PinchGlove is an input device for the Oculus Quest 2. When used alongside the hand tracking of the headset, the glove detects a pinch of the index or the middle finger based on an unambiguous electric contact rather than image detection.
 
 It is mostly useless, but I was wondering if it was possible.
