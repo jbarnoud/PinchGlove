@@ -37,6 +37,7 @@ I used the following parts to build the glove:
 * TinyPICO <https://shop.pimoroni.com/products/tinypico-v2?variant=39285089534035>
 * conductive fabric <https://shop.pimoroni.com/products/woven-conductive-tape>
 * conductive thread <https://shop.pimoroni.com/products/adafruit-stainless-medium-conductive-thread-3-ply-18-meter-60-ft>
+* battery <https://www.amazon.co.uk/gp/product/B07CYMYMS9/>
 * prototype board <https://www.amazon.co.uk/gp/product/B0775BRB6B/>
 
 ## Building the firmware
